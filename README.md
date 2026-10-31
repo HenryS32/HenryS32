@@ -1,28 +1,19 @@
 
-<!-- ============================================
-     HENRYS32 | GITHUB PROFILE
-     DARK MINIMALIST / PREMIUM EDITION
-============================================= -->
+<!-- HENRYS32 | DARK MINIMALIST PROFILE -->
 
 <!-- HEADER -->
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:151515,100:303030&height=200&section=header&text=Henry&fontSize=72&fontColor=F5F5F5&animation=twinkling&fontAlignY=38&desc=STUDENT%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descColor=AAAAAA&descSize=14"
-    alt="Henry - GitHub Profile"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:151515,100:303030&height=200&section=header&text=Henry&fontSize=72&fontColor=F5F5F5&animation=twinkling&fontAlignY=38&desc=STUDENT%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descColor=AAAAAA&descSize=14" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=1200&color=BDBDBD&center=true&vCenter=true&width=620&height=45&lines=Exploring+technology+and+programming;Learning%2C+experimenting%2C+and+creating;Photography+%7C+Gaming+%7C+Music+%7C+Movies"
-    alt="Introduction animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=1200&color=BDBDBD&center=true&vCenter=true&width=620&height=45&lines=Exploring+technology+and+programming;Learning%2C+experimenting%2C+and+creating;Photography+%7C+Gaming+%7C+Music+%7C+Movies" alt="Introduction animation" />
 </p>
 
+<!-- PERSONAL BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/BASED_ON-CURIOSITY-171717?style=flat-square&labelColor=171717&color=888888" />
+  <img src="https://img.shields.io/badge/TECH%20%26%20CREATIVITY-181818?style=flat-square&labelColor=181818&color=888888" />
 </p>
 
 ---
@@ -48,13 +39,13 @@ Outside of programming, I'm into photography, gaming, music, and movies.
 **Languages & Web Technologies**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages and web technologies" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 </p>
 
 **Development Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 </p>
 
 <p align="center">
@@ -81,10 +72,7 @@ Outside of programming, I'm into photography, gaming, music, and movies.
 
 <p align="center">
   <a href="https://github.com/HenryS32">
-    <img
-      src="https://img.shields.io/badge/GitHub-HenryS32-181818?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-HenryS32-181818?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </p>
 
@@ -94,9 +82,5 @@ Outside of programming, I'm into photography, gaming, music, and movies.
 
 <!-- FOOTER -->
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:171717,100:050505&height=110&section=footer&animation=twinkling"
-    alt="Footer"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:171717,100:050505&height=110&section=footer&animation=twinkling" />
 </p>
